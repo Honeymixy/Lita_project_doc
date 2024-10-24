@@ -29,7 +29,7 @@ Task 4: Creating an interactive report
 ## Data visualizations
 <img src="https://github.com/user-attachments/assets/8982e377-88b2-4f64-be50-17dad7de8803" alt="Salesbyproduct" width="400" height="280"/> 
 <img src="https://github.com/user-attachments/assets/5ab8c94a-fb05-4b33-8996-4b4c5765313c" alt="Produdtsoldbyregion" width="400"/>
-<img src="https://github.com/user-attachments/assets/f5342bae-f5f1-486b-96b2-4fb7b7024645" alt="Produdtsoldbyregion" width="300"/>
+<img src="https://github.com/user-attachments/assets/f5342bae-f5f1-486b-96b2-4fb7b7024645" alt="Produdtsoldbyregion" width="400"/>
 
 
 
