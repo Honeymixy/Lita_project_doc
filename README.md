@@ -26,6 +26,9 @@ Task 3:  Use Excel formulas to calculate metrics such as average sales per produ
 total revenue by region
 Task 4 : Creating an interactive report
 
+## Data visualizations
+![image](https://github.com/user-attachments/assets/14954c33-cb1d-4fcb-8ee1-8e498f12ea57)
+
 
 
 
