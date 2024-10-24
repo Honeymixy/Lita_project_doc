@@ -27,8 +27,10 @@ total revenue by region
 Task 4: Creating an interactive report
 
 ## Data visualizations
-<img src="https://github.com/user-attachments/assets/14954c33-cb1d-4fcb-8ee1-8e498f12ea57" alt="Salesbyproduct" width="400" height="280"/> 
-<img src="https://github.com/user-attachments/assets/e7288eb9-cd06-42ff-8eab-8084912fbe3f" alt="Produdtsoldbyregion" width="400"/>
+<img src="https://github.com/user-attachments/assets/8982e377-88b2-4f64-be50-17dad7de8803" alt="Salesbyproduct" width="400" height="280"/> 
+<img src="https://github.com/user-attachments/assets/5ab8c94a-fb05-4b33-8996-4b4c5765313c" alt="Produdtsoldbyregion" width="400"/>
+![image](https://github.com/user-attachments/assets/71a5aa57-3316-4433-9bbb-b22d0c12dbd1)
+
 
 
 
