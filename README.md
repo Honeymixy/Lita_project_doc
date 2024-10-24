@@ -5,3 +5,28 @@ This data project aims to generate insights into the sales performance of a reta
 
 ### Date source 
 The Data source is [LITA Capstone Dataset.xlsx] https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project?preview=273182802
+
+###  Tools used
+ - Microsoft Excel
+- Data cleaning
+- Analysis
+- visualization
+- SQL -Structured query language for querying of data
+- GitHub for portfolio building
+
+- ### Data Cleaning and preparation
+  1. Data Inspection
+ 
+
+###  Create visualizations for the following captured KPI metrics:
+
+TASK 1: Total sales by product, - (Hint: Use the pivot table on Sheet1, and use Format on the Chart tab to change the chart title)
+Task 2:  Quantity Sold by Region
+Task 3:  Use Excel formulas to calculate metrics such as average sales per product and 
+total revenue by region
+Task 4 : Creating an interactive report
+
+
+
+
+ 
