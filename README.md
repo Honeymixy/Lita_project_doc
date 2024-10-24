@@ -24,10 +24,11 @@ TASK 1: Total sales by product, - (Hint: Use the pivot table on Sheet1, and use 
 Task 2:  Quantity Sold by Region
 Task 3:  Use Excel formulas to calculate metrics such as average sales per product and 
 total revenue by region
-Task 4 : Creating an interactive report
+Task 4: Creating an interactive report
 
 ## Data visualizations
-![image](https://github.com/user-attachments/assets/14954c33-cb1d-4fcb-8ee1-8e498f12ea57)
+<img src="https://github.com/user-attachments/assets/14954c33-cb1d-4fcb-8ee1-8e498f12ea57" alt="Salesbyproduct" width="400" height="280"/> 
+<img src="https://github.com/user-attachments/assets/e7288eb9-cd06-42ff-8eab-8084912fbe3f" alt="Produdtsoldbyregion" width="400"/>
 
 
 
