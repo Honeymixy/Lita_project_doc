@@ -50,6 +50,8 @@ Task 4: Creating an interactive report
 
 
 
+![image](https://github.com/user-attachments/assets/e468c44a-3afe-4b5e-b4b5-33a246640eee)
+
 
 
 
