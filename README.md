@@ -36,6 +36,11 @@ Task 4: Creating an interactive report
 
 ###  Create visualizations for the following captured KPI metrics for Project 2
 
+TASK 1: Total average subscription duration 
+Task 2: Identifying  the most popular subscription types
+Task 3:  Retrieving the total number of customers from each region
+Task 4: Creating an interactive report
+
 
 
 
