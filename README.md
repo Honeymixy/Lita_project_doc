@@ -43,6 +43,8 @@ Task 4: Creating an interactive report
 
 ## Data visualizations
 <img src="https://github.com/user-attachments/assets/76966c6c-9c5c-405d-adbe-bf834428f11b" alt="customerData" width="400" height="280"/> 
+<img src="https://github.com/user-attachments/assets/d2cebd14-2daa-423e-96ea-9d53c8d45f9f" alt="customerData" width="400" height="280"/> 
+
 
 
 
