@@ -1,7 +1,9 @@
 # Lita_project_doc
 
-## CAPSTONE PROJECT : Sales Performance Analysis for a Retail Store
+## CAPSTONE PROJECT 1: Sales Performance Analysis for a Retail Store
 This data project aims to generate insights into the sales performance of a retail store across various regions and products over the given years. By analyzing the parameters in the received data, we seek to gather enough information to make informed decisions and uncover key insights, such as identifying the top-selling products and the best-performing regions.
+
+## CAPSTONE PROJECT 2: Customer Segmentation for a Subscription Service
 
 ### Date source 
 The Data source is [LITA Capstone Dataset.xlsx] https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project?preview=273182802
@@ -30,6 +32,10 @@ Task 4: Creating an interactive report
 <img src="https://github.com/user-attachments/assets/8982e377-88b2-4f64-be50-17dad7de8803" alt="Salesbyproduct" width="400" height="280"/> 
 <img src="https://github.com/user-attachments/assets/5ab8c94a-fb05-4b33-8996-4b4c5765313c" alt="Produdtsoldbyregion" width="400"/>
 <img src="https://github.com/user-attachments/assets/f5342bae-f5f1-486b-96b2-4fb7b7024645" alt="Produdtsoldbyregion" width="400"/>
+
+
+###  Create visualizations for the following captured KPI metrics for Project 2
+
 
 
 
