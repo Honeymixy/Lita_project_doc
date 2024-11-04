@@ -41,6 +41,11 @@ Task 2: Identifying  the most popular subscription types
 Task 3:  Retrieving the total number of customers from each region
 Task 4: Creating an interactive report
 
+## Data visualizations
+<img src="https://github.com/user-attachments/assets/76966c6c-9c5c-405d-adbe-bf834428f11b" alt="customerData" width="400" height="280"/> 
+
+
+
 
 
 
