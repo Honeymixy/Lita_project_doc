@@ -32,23 +32,23 @@ The Data source is [LITA Capstone Dataset.xlsx] https://canvas.instructure.com/c
 ## Formular Used
 ```  select * from SalesData
 
-select the product from SalesData
+select product from SalesData
 ---Total sales of each product---
 
-SELECT Product, SUM(Quantity) AS TotalSales
+SELECT Product, SUM(Quantity*UnitPrice) AS TotalSales
 from SalesData
-group by-product;
+group by product;
 
 ----find the number of sales transactions in each region.--
 
-Select  region, sum(quantity) as  numbersale
+Select  region, count(sales) as  number_sale
 from SalesData group by region
 
 ------find the highest-selling product by total sales value.-------
-select DISTINCT product,SUM(quantity * unitprice) AS total_sales
+select product,max(quantity * unitprice) AS Highest_product
 from SalesData
-group by  product
-order by total_sales desc
+group by product
+order by Highest_product desc
 
 
 --------calculate total revenue per product.(Revenue=Quantity Sold×Price Per Unit)---------
@@ -59,23 +59,23 @@ order by  RevenuePerProduct desc
 
 ------calculate monthly sales totals for the current year----
 
-select year(OrderDate) as year,sum(quantity * unitprice) as monthlysale 
-from Salesdata where year(OrderDate) in ('2023','2024','2022')
+select year(OrderDate) as year,sum(quantity * unitprice) as monthlysales
+from Salesdata where year(OrderDate) in ('2023','2024')
 group by year(OrderDate)
 
 ---find the top 5 customers by total purchase amount.----
 
-SELECT TOP (5) Customer_Id,sum(unitprice) as totalpurchaseamt
+SELECT TOP (5) Customer_Id,sum(unitprice*Quantity) as totalpurchaseamt
 FROM SalesData
 group by Customer_Id
 
 ---------calculate the percentage of total sales contributed by each region.-----
 SELECT 
     region,
-    SUM([quantity]) AS TotalSales,
-    ROUND((SUM([quantity]) * 100/ (SELECT SUM([quantity]) FROM [dbo].[SalesData])), 2) AS SalesPercentage
+    SUM(quantity * unitprice) AS RegionSales,
+    (SUM(quantity * unitprice) * 100 / (SELECT SUM(quantity * unitprice) FROM SalesData)) AS SalesPercentage
 FROM 
-    [dbo].[SalesData]
+    SalesData
 GROUP BY 
     region;
 
