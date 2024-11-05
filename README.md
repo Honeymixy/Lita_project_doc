@@ -3,8 +3,6 @@
 ## CAPSTONE PROJECT 1: Sales Performance Analysis for a Retail Store
 This data project aims to generate insights into the sales performance of a retail store across various regions and products over the given years. By analyzing the parameters in the received data, we seek to gather enough information to make informed decisions and uncover key insights, such as identifying the top-selling products and the best-performing regions.
 
-## CAPSTONE PROJECT 2: Customer Segmentation for a Subscription Service
-
 ### Date source 
 The Data source is [LITA Capstone Dataset.xlsx] https://canvas.instructure.com/courses/10186984/files/folder/Capstone%20Project?preview=273182802
 
@@ -24,21 +22,22 @@ The Data source is [LITA Capstone Dataset.xlsx] https://canvas.instructure.com/c
 
 ###  Create visualizations for the following captured KPI metrics:
 
--TASK 1: Total sales by product, - (Hint: Use the pivot table on Sheet1, and use Format on the Chart tab to change the chart title)
+- TASK 1: Total sales by product
 - Task 2:  Quantity Sold by Region
 - Task 3:  Use Excel formulas to calculate metrics such as average sales per product and total revenue by region
 - Task 4: Calculate monthly sales totals for the current year.
-- Task 5: Creating an interactive report
+- Task 5: Identify products with no sales in the last quarter.
+- Task 6: Creating an interactive report
 
 ## Formular Used
 ```  select * from SalesData
 
-select product from SalesData
+select the product from SalesData
 ---Total sales of each product---
 
 SELECT Product, SUM(Quantity) AS TotalSales
 from SalesData
-group by product;
+group by-product;
 
 ----find the number of sales transactions in each region.--
 
