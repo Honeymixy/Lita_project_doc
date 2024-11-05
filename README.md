@@ -99,6 +99,9 @@ GROUP BY Product;
 <img src="https://github.com/user-attachments/assets/5ab8c94a-fb05-4b33-8996-4b4c5765313c" alt="Produdtsoldbyregion" width="400"/>
 <img src="https://github.com/user-attachments/assets/f5342bae-f5f1-486b-96b2-4fb7b7024645" alt="Produdtsoldbyregion" width="400"/>
 
+![image](https://github.com/user-attachments/assets/7eff68ed-367e-4b6f-bfd8-66009567f55c)
+
+
 
 
 
